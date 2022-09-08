@@ -5,9 +5,9 @@
  * return :0
  */
 
-int main()
+int main(void)
 {
 	puts("\"programming is like building a multilingual puzzel");
-	return 0;
+	return (0);
 }	
 
