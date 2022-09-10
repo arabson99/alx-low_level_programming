@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - prints all possible different combinations of three digits
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n, m, l;
