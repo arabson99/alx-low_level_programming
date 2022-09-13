@@ -2,11 +2,11 @@
 /**
  * main - print alphabets in lower case
  *
- * Return: Always 0
+ * Return: 0
  */
 void print_alphabet(void)
 {
-	charc;
+	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
