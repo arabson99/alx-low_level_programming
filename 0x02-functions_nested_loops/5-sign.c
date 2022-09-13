@@ -1,4 +1,4 @@
-#include "main."
+#include "main.h"
 /**
  * print_sign - fuction to check for a sign of a number
  * @c: is the int that will use for the argument of the function
