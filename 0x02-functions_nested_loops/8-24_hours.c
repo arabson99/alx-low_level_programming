@@ -1,4 +1,4 @@
-$include "main.h"
+#include "main.h"
 /**
  * jack bauer - function that prints every minute of the day of jack bauer, starti
  * n from 00:00 tp 23:59, min loop counts mins, while hour loop counts hours
