@@ -18,6 +18,6 @@ int main(void)
 		if (low != e && low != q)
 			putchar(low);
 	}
-	printf("\n");
+	putchar('\n');
 	return (0);
 }
