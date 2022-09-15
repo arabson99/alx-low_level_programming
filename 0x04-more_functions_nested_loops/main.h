@@ -15,4 +15,4 @@ void print_number(int n);
 void more_numbers(void);
 
 
-sendif /* MAIN_H */
+#endif /* MAIN_H */
