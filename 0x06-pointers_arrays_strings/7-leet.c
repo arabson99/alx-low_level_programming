@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * leet - func that encode a string
- * @str: string that will br encoded
+ * @str: string that will be encoded
  *
  * Return: returns encoded string
  */
